@@ -1,0 +1,29 @@
+main {
+    font-family: Arial;
+    margin-top: 15%;
+    text-align: center;
+  }
+  input {
+    font-size: 20px;
+    border: none;
+    padding: 10px 30px;
+    box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.2);
+  }
+  #textField {
+    width: 400px;
+  }
+  #answerText {
+    font-weight: 200;
+    color: #555;
+  }
+  #answerText span {
+    font-size: 30px;
+    color: red;
+  }
+  #submitButton {
+    background: coral;
+    color: #fff;
+  }
+  #submitButton:hover {
+    background: #555;   
+  }
